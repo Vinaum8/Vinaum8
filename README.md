@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinaum8
 - 👀 I’m interested in techonology, network and web development
-- 🌱 I’m currently learning devops
+- 🌱 I’m currently learning everything of devops
 - 📫 How to reach me: https://www.linkedin.com/in/vinisf/
 
 Thanks! 
