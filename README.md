@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinaum8
-- 👀 I’m interested in techonology, network and web development
+- 👀 I’m interested in techonology, network web development and DevOps
 - 🌱 I’m currently learning everything of devops
 - 📫 How to reach me: https://www.linkedin.com/in/vinisf/
 - [![Strava](https://badges.strava.com/logo-strava-echelon.png)](https://strava.com/athletes/28450226)
